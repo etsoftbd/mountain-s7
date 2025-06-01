@@ -16,7 +16,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/NoorVip"
+          "path": "/mountain"
         }
       }
     }
@@ -27,7 +27,7 @@
       "settings": {
         "servers": [
           {
-            "address": "ip2.teamsupreme.xyz", 
+            "address": "gcp3.supremevip.xyz", 
             "port": 9720
           }
         ]
