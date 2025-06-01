@@ -27,7 +27,7 @@
       "settings": {
         "servers": [
           {
-            "address": "gcp3.supremevip.xyz", 
+            "address": "gcp3.noorproxy.xyz", 
             "port": 9720
           }
         ]
